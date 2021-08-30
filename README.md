@@ -3,8 +3,6 @@
 
 ![alt text](https://github.com/AlienFuture/jk_jobs/blob/master/readme.png?raw=true "JK_Jobs in action")
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 This is a modified Fivem ESX script of DevKoRinGa's JK_jobs. I almost remade whole script from scratch except NUI layout.
 
 ## Features
