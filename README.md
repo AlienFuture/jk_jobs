@@ -30,6 +30,9 @@ This is a modified Fivem ESX script of DevKoRinGa's JK_jobs. I almost remade who
 4. a) If you would to start on running server open your console (F8) and type `refresh` and then ensure `<script_foldername>`.
 b) If you would to start your script with your server open your `server.cfg` and type `ensure <script_foldername>`.
 
+## Important
+If you want to add images from local you must create img folder in html directory and put image file there. Originally it uses .webp extension but you can change it in __resources.lua
+
 ## Credits
 Original script by: [DevKoRinGa]
 Used icons on banner: [Freepik]
@@ -41,3 +44,4 @@ Used icons on banner: [Freepik]
 [Freepik]: <https://www.freepik.com/>
 [release]: <https://github.com/AlienFuture/jk_jobs/releases>
   
+# www.crewstory.hu
